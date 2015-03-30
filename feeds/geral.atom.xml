@@ -1,5 +1,125 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Dojo Tocantins</title><link href="http://dojoto.info/" rel="alternate"></link><link href="http://dojoto.info/feeds/geral.atom.xml" rel="self"></link><id>http://dojoto.info/</id><updated>2015-03-22T18:00:00-03:00</updated><entry><title>Afinal de contas o que é o Coding Dojo?</title><link href="http://dojoto.info/mas-afinal-de-contas-o-que-e-o-coding-dojo.html" rel="alternate"></link><updated>2015-03-22T18:00:00-03:00</updated><author><name>Vinícius Aires Barros</name></author><id>tag:dojoto.info,2015-03-22:mas-afinal-de-contas-o-que-e-o-coding-dojo.html</id><summary type="html">&lt;p&gt;A palavra DOJO, em uma tradução literal do japonês, significa "lugar do caminho" e é originalmente usada para designar um espaço de meditação dos monges budistas. Em uma tradução livre dojo significa "lugar onde se estuda a vida", mas hoje em dia o termo é mais conhecido como lugar onde se pratica artes marciais em uma sala dentro de uma academia com o chão coberto de tapetes.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Coding Dojo Tocantins</title><link href="http://dojoto.info/" rel="alternate"></link><link href="http://dojoto.info/feeds/geral.atom.xml" rel="self"></link><id>http://dojoto.info/</id><updated>2015-03-30T08:00:00-03:00</updated><entry><title>1° Piloto Coding Dojo, como foi o evento?</title><link href="http://dojoto.info/1-coding-dojo-piloto-uft.html" rel="alternate"></link><updated>2015-03-30T08:00:00-03:00</updated><author><name>Vinícius Aires Barros</name></author><id>tag:dojoto.info,2015-03-30:1-coding-dojo-piloto-uft.html</id><summary type="html">&lt;p&gt;O 1° Piloto Coding Dojo aconteceu no dia 27/03/2015 na &lt;a target="_blank" href="http://www.uft.edu.br"&gt;Universidade Federal do Tocantins&lt;/a&gt; (UFT) campus Palmas, com tema na linguagem de programação &lt;a target="_blank" href="http://pt.wikipedia.org/wiki/Java_%28linguagem_de_programa%C3%A7%C3%A3o%29"&gt;Java&lt;/a&gt; e com o auxílio do
+&lt;a target="_blank" href="http://junit.org/"&gt;JUnit&lt;/a&gt; como ferramenta de teste unitário.
+O evento foi organizado pela parceiria entre o &lt;a target="_blank" href="http://dojoto.info"&gt;DojoTO&lt;/a&gt;, &lt;a target="_blank" href="https://www.facebook.com/caccompuft"&gt;CACCOMP&lt;/a&gt; (Centro Acadêmico de Ciência da Computação).&lt;/p&gt;
+&lt;p align="center"&gt;
+  &lt;img src="images/viniciusaires7/27-03-organizacao-coding-dojo.jpg"/&gt;
+&lt;/p&gt;
+
+&lt;h2&gt;Problema abordado&lt;/h2&gt;
+&lt;p&gt;O problema proposto foi o clássico &lt;a href="http://c2.com/cgi/wiki?FizzBuzzTest"&gt;FizzBuzz&lt;/a&gt;, descrito no enunciado abaixo!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Escreva um programa que imprima os números de 1 a 100. Mas para múltiplos de três, em vez do número imprimir "Fizz" e para os múltiplos de cinco imprimir "Buzz". Para os números que são múltiplos de dois três e cinco imprimir "FizzBuzz".&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;Participantes&lt;/h2&gt;
+&lt;p align="center"&gt;
+  &lt;img src="images/viniciusaires7/foto-1-piloto-coding-dojo.jpg"/&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Tivemos participação em peso dos alunos de Ciência da Computação UFT, um acadêmico de Eng. Elétrica, a participação de um ex-aluno e dois de outras instituições.
+Abaixo segue a sequência do Randori!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a target="_blank" href="https://www.facebook.com/lorraine.patiele"&gt;Lorraine Partiele&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a target="_blank" href="https://www.facebook.com/viniciusa1r3s"&gt;Vinicius Aires Barros&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a target="_blank" href="https://www.facebook.com/wandrobeckman"&gt;Wandro Beckman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a target="_blank" href="https://www.facebook.com/arthacheres.santos"&gt;Arthacheres Santos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a target="_blank" href="https://www.facebook.com/pedroreis.uft"&gt;Pedro Reis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a target="_blank" href="https://www.facebook.com/osmirmariano"&gt;Hosmyr Mariano&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a target="_blank" href="https://www.facebook.com/thaylon"&gt;Thaylon Guedes Santos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a target="_blank" href="https://www.facebook.com/gustavo.macedo.33"&gt;Gustavo Macedo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a target="_blank" href="https://www.facebook.com/fabiocbarrionuevo"&gt;Fabio C Barrionuevo da Luz&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Para mais fotos clique &lt;a href="http://goo.gl/uStBdj"&gt;aqui&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Código Fonte&lt;/h2&gt;
+&lt;p&gt;O algoritmo foi codificado com auxílo da IDE Netbeans pelo fato de sua simplicidade e facilidade na criação de testes unitários com o JUnit.&lt;/p&gt;
+&lt;h3&gt;Classe FizzBuzz.java&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="cm"&gt;/*FizzBuzz.java*/&lt;/span&gt;
+&lt;span class="kd"&gt;public&lt;/span&gt; &lt;span class="kd"&gt;class&lt;/span&gt; &lt;span class="nc"&gt;FizzBuzz&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
+    &lt;span class="kd"&gt;public&lt;/span&gt; &lt;span class="kd"&gt;static&lt;/span&gt; &lt;span class="n"&gt;String&lt;/span&gt; &lt;span class="nf"&gt;Verifica&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="kt"&gt;int&lt;/span&gt; &lt;span class="n"&gt;num&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
+        &lt;span class="kt"&gt;int&lt;/span&gt; &lt;span class="n"&gt;result3&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;num&lt;/span&gt; &lt;span class="o"&gt;%&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
+        &lt;span class="kt"&gt;int&lt;/span&gt; &lt;span class="n"&gt;result5&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;num&lt;/span&gt; &lt;span class="o"&gt;%&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
+
+        &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;result3&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;result5&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="o"&gt;)?(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;FizzBuzz&amp;quot;&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="c1"&gt;//VERIFICA MOD == 0&lt;/span&gt;
+                &lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;result3&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="o"&gt;)?(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;Fizz&amp;quot;&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;:&lt;/span&gt;&lt;span class="c1"&gt;// verifica mod de 3 == 0&lt;/span&gt;
+                &lt;span class="o"&gt;((&lt;/span&gt;&lt;span class="n"&gt;result5&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="o"&gt;)?(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;Buzz&amp;quot;&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;:&lt;/span&gt;&lt;span class="c1"&gt;// verifica mod de 5 == 0&lt;/span&gt;
+                &lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt; &lt;span class="o"&gt;+&lt;/span&gt; &lt;span class="n"&gt;num&lt;/span&gt;&lt;span class="o"&gt;));&lt;/span&gt;
+    &lt;span class="o"&gt;}&lt;/span&gt;
+
+    &lt;span class="kd"&gt;public&lt;/span&gt; &lt;span class="kd"&gt;static&lt;/span&gt; &lt;span class="kt"&gt;void&lt;/span&gt; &lt;span class="nf"&gt;main&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;String&lt;/span&gt;&lt;span class="o"&gt;[]&lt;/span&gt; &lt;span class="n"&gt;args&lt;/span&gt;&lt;span class="o"&gt;){&lt;/span&gt;
+        &lt;span class="c1"&gt;//TODO&lt;/span&gt;
+    &lt;span class="o"&gt;}&lt;/span&gt;
+&lt;span class="o"&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h3&gt;Classe de Teste FizzBuzzTest.java&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="cm"&gt;/*FizzBuzzTest.java*/&lt;/span&gt;
+
+&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;org.junit.After&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
+&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;org.junit.Before&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
+&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;org.junit.Test&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
+&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;static&lt;/span&gt; &lt;span class="n"&gt;org&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;junit&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;Assert&lt;/span&gt;&lt;span class="o"&gt;.*;&lt;/span&gt;
+
+&lt;span class="kd"&gt;public&lt;/span&gt; &lt;span class="kd"&gt;class&lt;/span&gt; &lt;span class="nc"&gt;FizzBuzzTest&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
+    &lt;span class="kd"&gt;public&lt;/span&gt; &lt;span class="nf"&gt;FizzBuzzTest&lt;/span&gt;&lt;span class="o"&gt;()&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
+    &lt;span class="o"&gt;}&lt;/span&gt;
+
+    &lt;span class="nd"&gt;@Before&lt;/span&gt;
+    &lt;span class="kd"&gt;public&lt;/span&gt; &lt;span class="kt"&gt;void&lt;/span&gt; &lt;span class="nf"&gt;setUp&lt;/span&gt;&lt;span class="o"&gt;()&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
+    &lt;span class="o"&gt;}&lt;/span&gt;
+
+    &lt;span class="nd"&gt;@After&lt;/span&gt;
+    &lt;span class="kd"&gt;public&lt;/span&gt; &lt;span class="kt"&gt;void&lt;/span&gt; &lt;span class="nf"&gt;tearDown&lt;/span&gt;&lt;span class="o"&gt;()&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
+    &lt;span class="o"&gt;}&lt;/span&gt;
+
+    &lt;span class="cm"&gt;/**&lt;/span&gt;
+&lt;span class="cm"&gt;     * Test of Verifica method, of class FizzBuzz.&lt;/span&gt;
+&lt;span class="cm"&gt;     */&lt;/span&gt;
+    &lt;span class="nd"&gt;@Test&lt;/span&gt;
+    &lt;span class="kd"&gt;public&lt;/span&gt; &lt;span class="kt"&gt;void&lt;/span&gt; &lt;span class="nf"&gt;testVerifica3&lt;/span&gt;&lt;span class="o"&gt;()&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
+        &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="kt"&gt;int&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;=&lt;/span&gt; &lt;span class="mi"&gt;100&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;++)&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
+            &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;%&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt; &lt;span class="o"&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;%&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt; &lt;span class="o"&gt;!=&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
+                &lt;span class="n"&gt;assertEquals&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;Fizz&amp;quot;&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="n"&gt;FizzBuzz&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;Verifica&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;));&lt;/span&gt;
+            &lt;span class="o"&gt;}&lt;/span&gt;
+        &lt;span class="o"&gt;}&lt;/span&gt;
+    &lt;span class="o"&gt;}&lt;/span&gt;
+
+    &lt;span class="nd"&gt;@Test&lt;/span&gt;
+    &lt;span class="kd"&gt;public&lt;/span&gt; &lt;span class="kt"&gt;void&lt;/span&gt; &lt;span class="nf"&gt;testVerifica5&lt;/span&gt;&lt;span class="o"&gt;()&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
+        &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="kt"&gt;int&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;=&lt;/span&gt; &lt;span class="mi"&gt;100&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;++)&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
+            &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;%&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt; &lt;span class="o"&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;%&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt; &lt;span class="o"&gt;!=&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
+                &lt;span class="n"&gt;assertEquals&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;Buzz&amp;quot;&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="n"&gt;FizzBuzz&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;Verifica&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;));&lt;/span&gt;
+            &lt;span class="o"&gt;}&lt;/span&gt;
+        &lt;span class="o"&gt;}&lt;/span&gt;
+    &lt;span class="o"&gt;}&lt;/span&gt;
+
+    &lt;span class="nd"&gt;@Test&lt;/span&gt;
+    &lt;span class="kd"&gt;public&lt;/span&gt; &lt;span class="kt"&gt;void&lt;/span&gt; &lt;span class="nf"&gt;testVerifica3e5&lt;/span&gt;&lt;span class="o"&gt;()&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
+        &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="kt"&gt;int&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;=&lt;/span&gt; &lt;span class="mi"&gt;100&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;++)&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
+            &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;%&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt; &lt;span class="o"&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;%&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
+                &lt;span class="n"&gt;assertEquals&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;FizzBuzz&amp;quot;&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="n"&gt;FizzBuzz&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;Verifica&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;));&lt;/span&gt;
+            &lt;span class="o"&gt;}&lt;/span&gt;
+        &lt;span class="o"&gt;}&lt;/span&gt;
+    &lt;span class="o"&gt;}&lt;/span&gt;
+
+    &lt;span class="nd"&gt;@Test&lt;/span&gt;
+    &lt;span class="kd"&gt;public&lt;/span&gt; &lt;span class="kt"&gt;void&lt;/span&gt; &lt;span class="nf"&gt;testVerificaNaoE&lt;/span&gt;&lt;span class="o"&gt;(){&lt;/span&gt;
+        &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="kt"&gt;int&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;=&lt;/span&gt; &lt;span class="mi"&gt;100&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;++)&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
+            &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;%&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt; &lt;span class="o"&gt;!=&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt; &lt;span class="o"&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;%&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt; &lt;span class="o"&gt;!=&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
+                &lt;span class="n"&gt;assertEquals&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="n"&gt;FizzBuzz&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;Verifica&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;));&lt;/span&gt;
+            &lt;span class="o"&gt;}&lt;/span&gt;
+        &lt;span class="o"&gt;}&lt;/span&gt;
+    &lt;span class="o"&gt;}&lt;/span&gt;
+&lt;span class="o"&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;a href="https://github.com/dojoto/arquivos-dojos/tree/master/27_03_2015/FizzBuzz"&gt;Link para o repositório no GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;FeedBack&lt;/h2&gt;
+&lt;p&gt;Ao final do Dojo tivemos um momento de feedback, onde foram apontados os pontos positivos e negativos ocorridos durante o evento.&lt;/p&gt;
+&lt;p align="center"&gt;
+  &lt;img src="images/viniciusaires7/25-03-coding-dojo-feedback.jpg"/&gt;
+&lt;/p&gt;</summary><category term="coding dojo"></category><category term="extreme programming"></category><category term="tdd"></category><category term="pair programming"></category><category term="baby steps"></category><category term="uft"></category><category term="caccomp"></category><category term="ciência da computacao"></category></entry><entry><title>Afinal de contas o que é o Coding Dojo?</title><link href="http://dojoto.info/mas-afinal-de-contas-o-que-e-o-coding-dojo.html" rel="alternate"></link><updated>2015-03-22T18:00:00-03:00</updated><author><name>Vinícius Aires Barros</name></author><id>tag:dojoto.info,2015-03-22:mas-afinal-de-contas-o-que-e-o-coding-dojo.html</id><summary type="html">&lt;p&gt;A palavra DOJO, em uma tradução literal do japonês, significa "lugar do caminho" e é originalmente usada para designar um espaço de meditação dos monges budistas. Em uma tradução livre dojo significa "lugar onde se estuda a vida", mas hoje em dia o termo é mais conhecido como lugar onde se pratica artes marciais em uma sala dentro de uma academia com o chão coberto de tapetes.&lt;/p&gt;
 &lt;h2&gt;DOJO que parada é essa!?&lt;/h2&gt;
 &lt;p align="center"&gt;
   &lt;img src="images/viniciusaires7/dude-wtf.jpg" alt="WTF image"/&gt;
@@ -81,4 +201,4 @@
 &lt;p&gt;LUZ, Ramiro Batista; NETO, Adolfo. Usando Dojos de Programação para o Ensino de Desenvolvimento Dirigido por Testes. Número da Edição. Local : Editora, ano.&lt;/p&gt;
 &lt;p&gt;ANDRADE, Bruno Eustáquio et al. TDD - Test Driven Development (Desenvolvimento guiado por testes). Artigo Acadêmico.Número da Edição. Local : Editora, ano. &lt;/p&gt;
 &lt;p&gt;BONFIM, Márcio. O que é o Coding Dojo. Devmedia. Disponível em: &lt;a href="http://www.devmedia.com.br/o-que-e-o-coding-dojo/30517"&gt;http://www.devmedia.com.br/o-que-e-o-coding-dojo/30517&lt;/a&gt;. Acesso em: 20, mar. 2015.&lt;/p&gt;
-&lt;p&gt;ANICHE, Maurício. Test-driven-development. Caelum. Disponível em: &lt;a href="http://tdd.caelum.com.br/"&gt;http://tdd.caelum.com.br/&lt;/a&gt;. Acesso em: 20, mar. 20015.&lt;/p&gt;</summary><category term="coding dojo"></category><category term="extreme programming"></category><category term="tdd"></category><category term="pair programming"></category><category term="baby steps"></category></entry></feed>
+&lt;p&gt;ANICHE, Maurício. Test-driven-development. Caelum. Disponível em: &lt;a href="http://tdd.caelum.com.br/"&gt;http://tdd.caelum.com.br/&lt;/a&gt;. Acesso em: 20, mar. 2015.&lt;/p&gt;</summary><category term="coding dojo"></category><category term="extreme programming"></category><category term="tdd"></category><category term="pair programming"></category><category term="baby steps"></category></entry></feed>
