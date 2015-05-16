@@ -5,41 +5,48 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://dojoto.info/</loc>
-<lastmod>2015-04-29T02:50:30-00:00</lastmod>
+<lastmod>2015-05-16T18:13:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://dojoto.info/archives.html</loc>
-<lastmod>2015-04-29T02:50:30-00:00</lastmod>
+<lastmod>2015-05-16T18:13:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://dojoto.info/tags.html</loc>
-<lastmod>2015-04-29T02:50:30-00:00</lastmod>
+<lastmod>2015-05-16T18:13:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://dojoto.info/categories.html</loc>
-<lastmod>2015-04-29T02:50:30-00:00</lastmod>
+<lastmod>2015-05-16T18:13:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://dojoto.info/pages/about.html</loc>
-<lastmod>2015-04-29T02:50:30-00:00</lastmod>
+<lastmod>2015-05-16T18:13:36-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.3</priority>
 </url>
 
 <url>
 <loc>http://dojoto.info/1-coding-dojo-piloto-uft.html</loc>
+<lastmod>2015-03-30T08:00:00-03:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
+
+<url>
+<loc>http://dojoto.info/2-coding-dojo-uft.html</loc>
 <lastmod>2015-03-30T08:00:00-03:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
