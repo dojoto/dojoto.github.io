@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>CodingDojoTocantins</title><link href="http://dojoto.info/" rel="alternate"></link><link href="http://dojoto.info/feeds/all.atom.xml" rel="self"></link><id>http://dojoto.info/</id><updated>2015-04-30T19:00:00-03:00</updated><entry><title>2° Coding Dojo, como foi o evento?</title><link href="http://dojoto.info/2-coding-dojo-uft.html" rel="alternate"></link><updated>2015-04-30T19:00:00-03:00</updated><author><name>Vinícius Aires Barros</name></author><id>tag:dojoto.info,2015-04-30:2-coding-dojo-uft.html</id><summary type="html">&lt;p&gt;O 2° Coding Dojo aconteceu no dia 30/04/2015 na &lt;a target="_blank" href="http://www.uft.edu.br"&gt;Universidade Federal do Tocantins&lt;/a&gt; (UFT) campus Palmas, com tema na linguagem de programação &lt;a target="_blank" href="http://pt.wikipedia.org/wiki/Python"&gt;Python&lt;/a&gt;.
 O evento foi organizado pela parceria entre o &lt;a target="_blank" href="http://dojoto.info"&gt;DojoTO&lt;/a&gt;, &lt;a target="_blank" href="https://www.facebook.com/caccompuft"&gt;CACCOMP&lt;/a&gt; (Centro Acadêmico de Ciência da Computação).&lt;/p&gt;
 &lt;p align="center"&gt;
-  &lt;img src="images/viniciusaires7/27-03-organizacao-coding-dojo.jpg"/&gt;
+  &lt;img src="http://dojoto.info/images/viniciusaires7/27-03-organizacao-coding-dojo.jpg"/&gt;
 &lt;/p&gt;
 
 &lt;h2&gt;Problema abordado&lt;/h2&gt;
@@ -24,7 +24,7 @@ Desenvolva um programa que determine se um número é feliz ou triste.&lt;/p&gt;
 &lt;a href="http://dojopuzzles.com/problemas/exibe/numeros-felizes"&gt;http://dojopuzzles.com/problemas/exibe/numeros-felizes&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Participantes&lt;/h2&gt;
 &lt;p align="center"&gt;
-  &lt;img src="images/viniciusaires7/coding-dojo-30-04-2015.jpg"/&gt;
+  &lt;img src="http://dojoto.info/images/viniciusaires7/coding-dojo-30-04-2015.jpg"/&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Para mais fotos clique &lt;a href="https://goo.gl/6PNhiA"&gt;aqui&lt;/a&gt;&lt;/p&gt;
@@ -108,12 +108,12 @@ Desenvolva um programa que determine se um número é feliz ou triste.&lt;/p&gt;
 &lt;h2&gt;FeedBack&lt;/h2&gt;
 &lt;p&gt;Ao final do Dojo tivemos um momento de feedback, onde foram apontados os pontos positivos e negativos ocorridos durante o evento.&lt;/p&gt;
 &lt;p align="center"&gt;
-  &lt;img src="images/viniciusaires7/30-04-coding-dojo-feedback.jpg"/&gt;
+  &lt;img src="http://dojoto.info/images/viniciusaires7/30-04-coding-dojo-feedback.jpg"/&gt;
 &lt;/p&gt;</summary><category term="coding dojo"></category><category term="extreme programming"></category><category term="tdd"></category><category term="pair programming"></category><category term="baby steps"></category><category term="uft"></category><category term="caccomp"></category><category term="ciência da computacao"></category></entry><entry><title>1° Piloto Coding Dojo, como foi o evento?</title><link href="http://dojoto.info/1-coding-dojo-piloto-uft.html" rel="alternate"></link><updated>2015-03-30T08:00:00-03:00</updated><author><name>Vinícius Aires Barros</name></author><id>tag:dojoto.info,2015-03-30:1-coding-dojo-piloto-uft.html</id><summary type="html">&lt;p&gt;O 1° Piloto Coding Dojo aconteceu no dia 27/03/2015 na &lt;a target="_blank" href="http://www.uft.edu.br"&gt;Universidade Federal do Tocantins&lt;/a&gt; (UFT) campus Palmas, com tema na linguagem de programação &lt;a target="_blank" href="http://pt.wikipedia.org/wiki/Java_%28linguagem_de_programa%C3%A7%C3%A3o%29"&gt;Java&lt;/a&gt; e com o auxílio do
 &lt;a target="_blank" href="http://junit.org/"&gt;JUnit&lt;/a&gt; como ferramenta de teste unitário.
 O evento foi organizado pela parceria entre o &lt;a target="_blank" href="http://dojoto.info"&gt;DojoTO&lt;/a&gt;, &lt;a target="_blank" href="https://www.facebook.com/caccompuft"&gt;CACCOMP&lt;/a&gt; (Centro Acadêmico de Ciência da Computação).&lt;/p&gt;
 &lt;p align="center"&gt;
-  &lt;img src="images/viniciusaires7/27-03-organizacao-coding-dojo.jpg"/&gt;
+  &lt;img src="http://dojoto.info/images/viniciusaires7/27-03-organizacao-coding-dojo.jpg"/&gt;
 &lt;/p&gt;
 
 &lt;h2&gt;Problema abordado&lt;/h2&gt;
@@ -123,7 +123,7 @@ O evento foi organizado pela parceria entre o &lt;a target="_blank" href="http:/
 &lt;/blockquote&gt;
 &lt;h2&gt;Participantes&lt;/h2&gt;
 &lt;p align="center"&gt;
-  &lt;img src="images/viniciusaires7/foto-1-piloto-coding-dojo.jpg"/&gt;
+  &lt;img src="http://dojoto.info/images/viniciusaires7/foto-1-piloto-coding-dojo.jpg"/&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Tivemos participação em peso dos alunos de Ciência da Computação UFT, um acadêmico de Eng. Elétrica, a participação de um ex-aluno e dois de outras instituições.
@@ -228,17 +228,17 @@ Abaixo segue a sequência do Randori!&lt;/p&gt;
 &lt;h2&gt;FeedBack&lt;/h2&gt;
 &lt;p&gt;Ao final do Dojo tivemos um momento de feedback, onde foram apontados os pontos positivos e negativos ocorridos durante o evento.&lt;/p&gt;
 &lt;p align="center"&gt;
-  &lt;img src="images/viniciusaires7/25-03-coding-dojo-feedback.jpg"/&gt;
+  &lt;img src="http://dojoto.info/images/viniciusaires7/25-03-coding-dojo-feedback.jpg"/&gt;
 &lt;/p&gt;</summary><category term="coding dojo"></category><category term="extreme programming"></category><category term="tdd"></category><category term="pair programming"></category><category term="baby steps"></category><category term="uft"></category><category term="caccomp"></category><category term="ciência da computacao"></category></entry><entry><title>Mas afinal de contas o que é o Coding Dojo?</title><link href="http://dojoto.info/mas-afinal-de-contas-o-que-e-o-coding-dojo.html" rel="alternate"></link><updated>2015-03-22T18:00:00-03:00</updated><author><name>Vinícius Aires Barros</name></author><id>tag:dojoto.info,2015-03-22:mas-afinal-de-contas-o-que-e-o-coding-dojo.html</id><summary type="html">&lt;p&gt;A palavra DOJO, em uma tradução literal do japonês, significa "lugar do caminho" e é originalmente usada para designar um espaço de meditação dos monges budistas. Em uma tradução livre dojo significa "lugar onde se estuda a vida", mas hoje em dia o termo é mais conhecido como lugar onde se pratica artes marciais em uma sala dentro de uma academia com o chão coberto de tapetes.&lt;/p&gt;
 &lt;h2&gt;DOJO que parada é essa!?&lt;/h2&gt;
 &lt;p align="center"&gt;
-  &lt;img src="images/viniciusaires7/dude-wtf.jpg" alt="WTF image"/&gt;
+  &lt;img src="http://dojoto.info/images/viniciusaires7/dude-wtf.jpg" alt="WTF image"/&gt;
 &lt;/p&gt;
 
 &lt;p&gt;O &lt;em&gt;Coding Dojo&lt;/em&gt; ou Dojo de Programação é uma atividade que vem sendo muito utilizada pela comunidade de desenvolvedores e pessoas interessadas com o objetivo de melhorarem suas habilidades de escrita de algoritmos eficientes e de qualidade. A fundamentação do dojo está na prática de métodos ágeis de desenvolvimento oriundas do &lt;em&gt;Extreme Programming&lt;/em&gt; (XP) como o TDD (Test Driven Development, "Programação Orienta a Testes"), &lt;em&gt;Pair Programming&lt;/em&gt; (Programação em Pares) e o &lt;em&gt;Baby Steps&lt;/em&gt; praticados em um ambiente inclusivo, seguro e convidativo.&lt;/p&gt;
 &lt;h3&gt;Justificativa&lt;/h3&gt;
 &lt;p&gt;&lt;p align="center"&gt;
-  &lt;img src="images/viniciusaires7/7396371564_828beac495_z.jpg" alt="Programadores nao treinam image"/&gt;
+  &lt;img src="http://dojoto.info/images/viniciusaires7/7396371564_828beac495_z.jpg" alt="Programadores nao treinam image"/&gt;
 &lt;/p&gt;&lt;/p&gt;
 &lt;p&gt;Alguns programadores não têm o costume de praticar suas "&lt;em&gt;skills&lt;/em&gt;" de programação e com isso aprimorarem a sua capacidade de resolver problemas.&lt;/p&gt;
 &lt;p&gt;Assim como jogadores de futebol que treinam exaustivamente e aprendem técnicas continuamente para irem bem em um jogo, programadores também precisam treinar para estarem preparados para os desafios da profissão.&lt;/p&gt;
@@ -249,19 +249,19 @@ Abaixo segue a sequência do Randori!&lt;/p&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;TDD&lt;/strong&gt;: O TDD é um acróstico em inglês de Test Driven Development, traduzindo Desenvolvimento Dirigido a Testes. TDD é uma técnica (englobada pelo XP) que contempla o desenvolvimento a partir de testes. Duas regras básicas devem ser seguidas, primeiro deve-se escrever um teste automatizado que falhe antes de escrever algum código e a outra regra diz que se deve remover código duplicado. Essas regras geram o simbolismo do TDD que possui três termos, Vermelho, Verde e Refatoração, chamado de mantra do TDD. O significado é o seguinte:  vermelho – escreva um pequeno teste que falhe, verde – faça o teste funcionar rapidamente cometendo qualquer pecado necessário nesse processo e refatoração – remova a duplicação criada para fazer o teste passar. As vantagens de usar esse método são feedback constante da situação do código, confiança para mudar pois as funcionalidades prontas possuem testes, caso uma alteração afete algo pronto, quando os testes estiverem passando não há necessidade de continuar desenvolvendo.
 &lt;p align="center"&gt;
-  &lt;img src="images/viniciusaires7/tdd.jpg" alt="Test Driven Development image"/&gt;
+  &lt;img src="http://dojoto.info/images/viniciusaires7/tdd.jpg" alt="Test Driven Development image"/&gt;
 &lt;/p&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Pair Programming&lt;/strong&gt;: O Pair Programming (Programação em Pares) é uma técnica caraterizada por uma dupla sentada lado a lado compartilhando o mesmo computador e desenvolvendo a solução colaborativamente. Essa técnica permite que os programadores mantenham a atenção de um e do outro na tarefa, refinem as ideias do sistema, esclarecimento das ideias, quando alguém não consegue seguir em frente o outro toma iniciativa e ambos se mantem alinhados com as práticas do time.
 &lt;p align="center"&gt;
-  &lt;img src="images/viniciusaires7/IMG_1809.jpg" alt="Pair programming image"/&gt;
+  &lt;img src="http://dojoto.info/images/viniciusaires7/IMG_1809.jpg" alt="Pair programming image"/&gt;
 &lt;/p&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Baby Steps&lt;/strong&gt;: É basicamente a mesma ideia de quando uma criança está aprendendo dar os seu primeiros passos, deve-se deixar que a pessoa se arrisque alguns passos sozinhos mas sempre supervisionando e dando dicas de como dar o próximo passo.
 &lt;p align="center"&gt;
-  &lt;img src="images/viniciusaires7/959864706_894bdfaa56.jpg" alt="Baby Steps image"/&gt;
+  &lt;img src="http://dojoto.info/images/viniciusaires7/959864706_894bdfaa56.jpg" alt="Baby Steps image"/&gt;
 &lt;/p&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -273,13 +273,13 @@ Abaixo segue a sequência do Randori!&lt;/p&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Copiloto&lt;/strong&gt;: O copiloto é responsável por passar as instruções ao piloto.
 &lt;p align="center"&gt;
-  &lt;img src="images/viniciusaires7/Comandante-Elisa-Rossi-e-Co-piloto-Gabriela-GOL-Linhas-Aereas.jpg" alt="Piloto Copiloto image"/&gt;
+  &lt;img src="http://dojoto.info/images/viniciusaires7/Comandante-Elisa-Rossi-e-Co-piloto-Gabriela-GOL-Linhas-Aereas.jpg" alt="Piloto Copiloto image"/&gt;
 &lt;/p&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Randori&lt;/strong&gt;: Então entramos com a ideia do &lt;em&gt;Randori&lt;/em&gt; (das artes marciais é conhecido como o momento da troca e rodizio dos oponentes). A cada 5 ou 10 minutos o Copiloto torna-se Piloto, o Piloto volta para a plateia e um novo Copiloto é escolhido entre os que ainda não participaram do Kata!
 &lt;p align="center"&gt;
-  &lt;img src="images/viniciusaires7/coding-dojo-aprendendo-a-programar-programando-38-638.jpg" alt="Randori image"/&gt;
+  &lt;img src="http://dojoto.info/images/viniciusaires7/coding-dojo-aprendendo-a-programar-programando-38-638.jpg" alt="Randori image"/&gt;
 &lt;/p&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -288,7 +288,7 @@ Abaixo segue a sequência do Randori!&lt;/p&gt;
 &lt;p&gt;Para Organizar um Dojo basta ter pessoas interessadas, um computador pessoal, um data show e uma sala reservada para a realização do evento. Simples, não?! Pois acredite, realmente é simples. Então, se não existe um Dojo na sua região junte uma galera animada e descubra o prazer a aprender ou melhorar as suas habilidades de programação junto com seus amigos =).&lt;/p&gt;
 &lt;h3&gt;Feedback&lt;/h3&gt;
 &lt;p&gt;&lt;p align="center"&gt;
-  &lt;img src="images/viniciusaires7/feedback.jpg" alt="Feeback image"/&gt;
+  &lt;img src="http://dojoto.info/images/viniciusaires7/feedback.jpg" alt="Feeback image"/&gt;
 &lt;/p&gt;&lt;/p&gt;
 &lt;p&gt;No final do Dojo temos o momento do Feedback, que é onde iremos anotar todos os pontos positivos e negativos em relação ao evento que ocorreu para que sejam analisados pela organização do Dojo!&lt;/p&gt;
 &lt;p&gt;E quem sabe, no final do Dojo...&lt;/p&gt;
@@ -306,7 +306,7 @@ Abaixo segue a sequência do Randori!&lt;/p&gt;
 
 &lt;h3&gt;Agradecimento&lt;/h3&gt;
 &lt;p&gt;&lt;p align="center"&gt;
-  &lt;img src="images/viniciusaires7/AGRADECIMENTOS.jpg" alt="Thanks image"/&gt;
+  &lt;img src="http://dojoto.info/images/viniciusaires7/AGRADECIMENTOS.jpg" alt="Thanks image"/&gt;
 &lt;/p&gt;&lt;/p&gt;
 &lt;p&gt;Gostaria de agradecer publicamente a ajuda na execução desse projeto:&lt;/p&gt;
 &lt;ul&gt;
@@ -320,6 +320,6 @@ Abaixo segue a sequência do Randori!&lt;/p&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Referências&lt;/h3&gt;
 &lt;p&gt;LUZ, Ramiro Batista; NETO, Adolfo. Usando Dojos de Programação para o Ensino de Desenvolvimento Dirigido por Testes. Número da Edição. Local : Editora, ano.&lt;/p&gt;
-&lt;p&gt;ANDRADE, Bruno Eustáquio et al. TDD - Test Driven Development (Desenvolvimento guiado por testes). Artigo Acadêmico.Número da Edição. Local : Editora, ano. &lt;/p&gt;
+&lt;p&gt;ANDRADE, Bruno Eustáquio et al. TDD - Test Driven Development (Desenvolvimento guiado por testes). Artigo Acadêmico.Número da Edição. Local : Editora, ano.&lt;/p&gt;
 &lt;p&gt;BONFIM, Márcio. O que é o Coding Dojo. Devmedia. Disponível em: &lt;a href="http://www.devmedia.com.br/o-que-e-o-coding-dojo/30517"&gt;http://www.devmedia.com.br/o-que-e-o-coding-dojo/30517&lt;/a&gt;. Acesso em: 20, mar. 2015.&lt;/p&gt;
 &lt;p&gt;ANICHE, Maurício. Test-driven-development. Caelum. Disponível em: &lt;a href="http://tdd.caelum.com.br/"&gt;http://tdd.caelum.com.br/&lt;/a&gt;. Acesso em: 20, mar. 2015.&lt;/p&gt;</summary><category term="coding dojo"></category><category term="extreme programming"></category><category term="tdd"></category><category term="pair programming"></category><category term="baby steps"></category></entry></feed>
