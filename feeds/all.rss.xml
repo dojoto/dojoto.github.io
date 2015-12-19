@@ -1,5 +1,156 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CodingDojoTocantins</title><link>http://dojoto.info/</link><description></description><atom:link href="http://dojoto.info/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 30 Apr 2015 19:00:00 -0300</lastBuildDate><item><title>2° Coding Dojo, como foi o evento?</title><link>http://dojoto.info/2-coding-dojo-uft.html</link><description>&lt;p&gt;O 2° Coding Dojo aconteceu no dia 30/04/2015 na &lt;a target="_blank" href="http://www.uft.edu.br"&gt;Universidade Federal do Tocantins&lt;/a&gt; (UFT) campus Palmas, com tema na linguagem de programação &lt;a target="_blank" href="http://pt.wikipedia.org/wiki/Python"&gt;Python&lt;/a&gt;.
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CodingDojoTocantins</title><link>http://dojoto.info/</link><description></description><atom:link href="http://dojoto.info/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 19 Dec 2015 20:00:00 -0300</lastBuildDate><item><title>3° Coding Dojo, como foi o evento?</title><link>http://dojoto.info/3-coding-dojo-uft.html</link><description>&lt;h2&gt;3º Coding Dojo (C++) - UFT&lt;/h2&gt;
+&lt;p align="center"&gt;
+  &lt;img src="https://raw.githubusercontent.com/dojoto/dojoto.github.io/pelican/content/images/viniciusaires7/3-dojo-banner.jpg"/&gt;
+&lt;/p&gt;
+
+&lt;p&gt;O 3° Coding Dojo aconteceu no dia 18/12/2015 na &lt;a target="_blank" href="http://www.uft.edu.br"&gt;Universidade Federal do Tocantins&lt;/a&gt; (UFT) campus Palmas, com tema na linguagem de programação &lt;a target="_blank" href="https://pt.wikipedia.org/wiki/C%2B%2B"&gt;C++&lt;/a&gt;.
+O evento foi organizado pela parceria entre o &lt;a target="_blank" href="http://dojoto.info"&gt;DojoTO&lt;/a&gt;, &lt;a target="_blank" href="https://www.facebook.com/caccompuft"&gt;CACCOMP&lt;/a&gt; (Centro Acadêmico de Ciência da Computação).&lt;/p&gt;
+&lt;p align="center"&gt;
+  &lt;img src="https://raw.githubusercontent.com/dojoto/dojoto.github.io/pelican/content/images/viniciusaires7/27-03-organizacao-coding-dojo.jpg"/&gt;
+&lt;/p&gt;
+
+&lt;h2&gt;Problema abordado&lt;/h2&gt;
+&lt;p&gt;O problema proposto foi o &lt;a href="https://uva.onlinejudge.org/index.php?option=com_onlinejudge&amp;amp;Itemid=8&amp;amp;page=show_problem&amp;amp;problem=36"&gt;3n+1&lt;/a&gt; problema que foi retirado do livro &lt;a href="http://www.programming-challenges.com/"&gt;Programming Challenges&lt;/a&gt; do autor &lt;a href="http://www3.cs.stonybrook.edu/~skiena/"&gt;Skiena&lt;/a&gt; livro esse que é base de estudos de algoritmos e referência usada para competições de programação como por exemplo a &lt;a href="http://maratona.ime.usp.br/"&gt;Maratona de Programação&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Descrição do problema 3n+1&lt;/p&gt;
+&lt;p&gt;*Arquivo pdf com definição do problema&lt;/p&gt;
+&lt;iframe src="https://drive.google.com/file/d/0BwOxXBIiBMq4ZXpUdzFVNEhfYkU/preview" width="100%" height="480"&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Participantes&lt;/h2&gt;
+&lt;p align="center"&gt;
+  &lt;img src="https://raw.githubusercontent.com/dojoto/dojoto.github.io/pelican/content/images/viniciusaires7/coding-dojo-18-12-2015.jpg"/&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Para mais fotos acessem o &lt;a href="https://goo.gl/photos/RoLwwdiiWEd857Un6"&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Contamos com a participação de 9 pessoas como a maioria do pessoal já estava viajando por conta do final do semestre tivemos poucas pessoas presentes, mas ainda sim o Coding Dojo foi legal!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.facebook.com/paulocanedo"&gt;Paulo Canedo C Rodrigues&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.facebook.com/bruno.p.carvalho.754"&gt;Bruno Pereira de Carvalho&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.facebook.com/cezanne.alves"&gt;Cézanne Alves M. Motta&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.facebook.com/fabiocbarrionuevo"&gt;Fabio C. Barrionuevo da Luz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.facebook.com/felipe.sousabarbosa.3"&gt;Felipe Sousa Barbosa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.facebook.com/carloscasca"&gt;Carlos Motta&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.facebook.com/Lendelsanches"&gt;Lendel Sanches&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.facebook.com/viniciusa1r3s"&gt;Vinícius Aires Barros&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.facebook.com/wandrobeckman"&gt;Wandro Beckman Maciel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Ambiente de desenvolvimento&lt;/h2&gt;
+&lt;p&gt;Segue abaixo as ferramentas e ambientes de desenvolvimento utilizados no 3° Coding Dojo:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sistema Operacional &lt;a href="http://www.ubuntu.com"&gt;Ubuntu - Linux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Compilador &lt;a href="https://gcc.gnu.org/"&gt;GNU Compiler Collection - G++&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Editor de texto &lt;a href="http://www.atom.io"&gt;Atom.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Gerenciador de Compilação &lt;a href="https://cmake.org/"&gt;CMAKE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ferramenta de testes &lt;a href="https://github.com/google/googletest"&gt;Google Test&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Obs: Para instalar o ambiente de testes com o framework do Google para testes em c++ segue o &lt;a href="http://www.eriksmistad.no/getting-started-with-google-test-on-ubuntu/"&gt;link&lt;/a&gt; com o tutorial de instalação!&lt;/p&gt;
+&lt;h2&gt;Código Fonte&lt;/h2&gt;
+&lt;p&gt;Segue abaixo a implementação feita durante o Coding Dojo:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="cm"&gt;/*File: main.cpp*/&lt;/span&gt;
+&lt;span class="cp"&gt;#include &amp;lt;gtest/gtest.h&amp;gt;&lt;/span&gt;
+&lt;span class="cp"&gt;#include &amp;lt;iostream&amp;gt;&lt;/span&gt;
+&lt;span class="cp"&gt;#include &amp;lt;cmath&amp;gt;&lt;/span&gt;
+&lt;span class="cp"&gt;#include &amp;lt;sstream&amp;gt;&lt;/span&gt;
+
+&lt;span class="c1"&gt;//Classe Base ResolveProblema&lt;/span&gt;
+&lt;span class="k"&gt;class&lt;/span&gt; &lt;span class="nc"&gt;ResolveProblema&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+
+&lt;span class="k"&gt;public&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt;
+  &lt;span class="n"&gt;ResolveProblema&lt;/span&gt;&lt;span class="p"&gt;();&lt;/span&gt;
+  &lt;span class="kt"&gt;int&lt;/span&gt; &lt;span class="nf"&gt;tresN&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="kt"&gt;int&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+  &lt;span class="kt"&gt;int&lt;/span&gt; &lt;span class="nf"&gt;iteracao&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="kt"&gt;int&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="kt"&gt;int&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+  &lt;span class="n"&gt;std&lt;/span&gt;&lt;span class="o"&gt;::&lt;/span&gt;&lt;span class="n"&gt;string&lt;/span&gt; &lt;span class="n"&gt;result&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="kt"&gt;int&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="kt"&gt;int&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+
+&lt;span class="p"&gt;};&lt;/span&gt;
+
+&lt;span class="c1"&gt;//Construtor&lt;/span&gt;
+&lt;span class="n"&gt;ResolveProblema&lt;/span&gt;&lt;span class="o"&gt;::&lt;/span&gt;&lt;span class="n"&gt;ResolveProblema&lt;/span&gt;&lt;span class="p"&gt;(){}&lt;/span&gt;
+
+&lt;span class="c1"&gt;//Metodo Base 3n+1&lt;/span&gt;
+&lt;span class="kt"&gt;int&lt;/span&gt; &lt;span class="n"&gt;ResolveProblema&lt;/span&gt;&lt;span class="o"&gt;::&lt;/span&gt;&lt;span class="n"&gt;tresN&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="kt"&gt;int&lt;/span&gt; &lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="kt"&gt;int&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="k"&gt;while&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;n&lt;/span&gt; &lt;span class="o"&gt;!=&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;){&lt;/span&gt;
+    &lt;span class="k"&gt;if&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;n&lt;/span&gt; &lt;span class="o"&gt;%&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;){&lt;/span&gt;
+      &lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+    &lt;span class="p"&gt;}&lt;/span&gt;
+    &lt;span class="k"&gt;else&lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;
+      &lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+    &lt;span class="p"&gt;}&lt;/span&gt;
+    &lt;span class="n"&gt;it&lt;/span&gt;&lt;span class="o"&gt;++&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="p"&gt;}&lt;/span&gt;
+  &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+
+&lt;span class="c1"&gt;//Metodo Interacao para o calculo do maior ciclo definido pelo intervalo i -&amp;gt; j&lt;/span&gt;
+&lt;span class="kt"&gt;int&lt;/span&gt; &lt;span class="n"&gt;ResolveProblema&lt;/span&gt;&lt;span class="o"&gt;::&lt;/span&gt;&lt;span class="n"&gt;iteracao&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="kt"&gt;int&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="kt"&gt;int&lt;/span&gt; &lt;span class="n"&gt;j&lt;/span&gt;&lt;span class="p"&gt;){&lt;/span&gt;
+
+  &lt;span class="kt"&gt;int&lt;/span&gt; &lt;span class="n"&gt;min&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;std&lt;/span&gt;&lt;span class="o"&gt;::&lt;/span&gt;&lt;span class="n"&gt;min&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;j&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+  &lt;span class="kt"&gt;int&lt;/span&gt; &lt;span class="n"&gt;max&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;std&lt;/span&gt;&lt;span class="o"&gt;::&lt;/span&gt;&lt;span class="n"&gt;max&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;j&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+  &lt;span class="kt"&gt;int&lt;/span&gt; &lt;span class="n"&gt;maior&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+
+  &lt;span class="k"&gt;for&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="kt"&gt;int&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;min&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;&lt;/span&gt; &lt;span class="n"&gt;max&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="o"&gt;++&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+    &lt;span class="kt"&gt;int&lt;/span&gt; &lt;span class="n"&gt;comprimentoCiclo&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;tresN&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+    &lt;span class="k"&gt;if&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;comprimentoCiclo&lt;/span&gt; &lt;span class="o"&gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;maior&lt;/span&gt;&lt;span class="p"&gt;){&lt;/span&gt;
+      &lt;span class="n"&gt;maior&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;comprimentoCiclo&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+    &lt;span class="p"&gt;}&lt;/span&gt;
+  &lt;span class="p"&gt;}&lt;/span&gt;
+  &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="n"&gt;maior&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+
+&lt;span class="c1"&gt;//Metodo Principal do problema 3n+1&lt;/span&gt;
+&lt;span class="n"&gt;std&lt;/span&gt;&lt;span class="o"&gt;::&lt;/span&gt;&lt;span class="n"&gt;string&lt;/span&gt; &lt;span class="n"&gt;ResolveProblema&lt;/span&gt;&lt;span class="o"&gt;::&lt;/span&gt;&lt;span class="n"&gt;result&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="kt"&gt;int&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="kt"&gt;int&lt;/span&gt; &lt;span class="n"&gt;j&lt;/span&gt;&lt;span class="p"&gt;){&lt;/span&gt;
+  &lt;span class="kt"&gt;int&lt;/span&gt; &lt;span class="n"&gt;maior_ciclo&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;iteracao&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;j&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+  &lt;span class="n"&gt;std&lt;/span&gt;&lt;span class="o"&gt;::&lt;/span&gt;&lt;span class="n"&gt;stringstream&lt;/span&gt; &lt;span class="n"&gt;ss&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="n"&gt;ss&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span class="n"&gt;j&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span class="s"&gt;&amp;quot; &amp;quot;&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span class="n"&gt;maior_ciclo&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="n"&gt;ss&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;str&lt;/span&gt;&lt;span class="p"&gt;();&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+
+&lt;span class="c1"&gt;//Metodo de Teste&lt;/span&gt;
+&lt;span class="n"&gt;TEST&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;INPUT&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;OUTPUT&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+    &lt;span class="n"&gt;ResolveProblema&lt;/span&gt; &lt;span class="n"&gt;resolve&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+    &lt;span class="n"&gt;ASSERT_EQ&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;10 1 20&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;resolve&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;result&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;));&lt;/span&gt;
+    &lt;span class="n"&gt;ASSERT_EQ&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;100 200 125&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;resolve&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;result&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;100&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;200&lt;/span&gt;&lt;span class="p"&gt;));&lt;/span&gt;
+    &lt;span class="n"&gt;ASSERT_EQ&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;201 210 89&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;resolve&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;result&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;201&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;210&lt;/span&gt;&lt;span class="p"&gt;));&lt;/span&gt;
+    &lt;span class="n"&gt;ASSERT_EQ&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;1000 900 174&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;resolve&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;result&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;1000&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;900&lt;/span&gt;&lt;span class="p"&gt;));&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+
+&lt;span class="c1"&gt;//Metodo Main&lt;/span&gt;
+&lt;span class="kt"&gt;int&lt;/span&gt; &lt;span class="n"&gt;main&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="kt"&gt;int&lt;/span&gt; &lt;span class="n"&gt;argc&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="kt"&gt;char&lt;/span&gt; &lt;span class="o"&gt;**&lt;/span&gt;&lt;span class="n"&gt;argv&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+    &lt;span class="n"&gt;testing&lt;/span&gt;&lt;span class="o"&gt;::&lt;/span&gt;&lt;span class="n"&gt;InitGoogleTest&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="o"&gt;&amp;amp;&lt;/span&gt;&lt;span class="n"&gt;argc&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;argv&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+    &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="nf"&gt;RUN_ALL_TESTS&lt;/span&gt;&lt;span class="p"&gt;();&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Segue o &lt;a href="https://github.com/dojoto/arquivos-dojos"&gt;link&lt;/a&gt; para o repositórios com os problemas desenvolvidos durante o Coding Dojo.&lt;/p&gt;
+&lt;h2&gt;FeedBack Coding Dojo&lt;/h2&gt;
+&lt;p&gt;Segue abaixo a tabela com os pontos positivos e negativos levantados ao final do Coding Dojo:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Foi Bom&lt;/th&gt;
+&lt;th&gt;Precisa melhorar&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Refrigerante&lt;/td&gt;
+&lt;td&gt;Faltou um especialista na linguagem&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Maior interatividade&lt;/td&gt;
+&lt;td&gt;Melhorar modelo do randori&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Relembrar C++&lt;/td&gt;
+&lt;td&gt;Data de realização do Dojo (Final de Semestre)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Conhecer framework de testes em C++ (Google)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vinícius Aires Barros</dc:creator><pubDate>Sat, 19 Dec 2015 20:00:00 -0300</pubDate><guid>tag:dojoto.info,2015-12-19:3-coding-dojo-uft.html</guid><category>coding dojo</category><category>extreme programming</category><category>tdd</category><category>pair programming</category><category>baby steps</category><category>uft</category><category>caccomp</category><category>ciência da computacao</category></item><item><title>2° Coding Dojo, como foi o evento?</title><link>http://dojoto.info/2-coding-dojo-uft.html</link><description>&lt;p&gt;O 2° Coding Dojo aconteceu no dia 30/04/2015 na &lt;a target="_blank" href="http://www.uft.edu.br"&gt;Universidade Federal do Tocantins&lt;/a&gt; (UFT) campus Palmas, com tema na linguagem de programação &lt;a target="_blank" href="http://pt.wikipedia.org/wiki/Python"&gt;Python&lt;/a&gt;.
 O evento foi organizado pela parceria entre o &lt;a target="_blank" href="http://dojoto.info"&gt;DojoTO&lt;/a&gt;, &lt;a target="_blank" href="https://www.facebook.com/caccompuft"&gt;CACCOMP&lt;/a&gt; (Centro Acadêmico de Ciência da Computação).&lt;/p&gt;
 &lt;p align="center"&gt;
   &lt;img src="http://dojoto.info/images/viniciusaires7/27-03-organizacao-coding-dojo.jpg"/&gt;
