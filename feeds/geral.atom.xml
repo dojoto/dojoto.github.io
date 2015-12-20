@@ -1,28 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>CodingDojoTocantins</title><link href="http://dojoto.info/" rel="alternate"></link><link href="http://dojoto.info/feeds/geral.atom.xml" rel="self"></link><id>http://dojoto.info/</id><updated>2015-12-19T20:00:00-03:00</updated><entry><title>3° Coding Dojo, como foi o evento?</title><link href="http://dojoto.info/3-coding-dojo-uft.html" rel="alternate"></link><updated>2015-12-19T20:00:00-03:00</updated><author><name>Vinícius Aires Barros</name></author><id>tag:dojoto.info,2015-12-19:3-coding-dojo-uft.html</id><summary type="html">&lt;h2&gt;3º Coding Dojo (C++) - UFT&lt;/h2&gt;
-&lt;p align="center"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CodingDojoTocantins</title><link href="http://dojoto.info/" rel="alternate"></link><link href="http://dojoto.info/feeds/geral.atom.xml" rel="self"></link><id>http://dojoto.info/</id><updated>2015-12-19T20:00:00-03:00</updated><entry><title>3° Coding Dojo, como foi o evento?</title><link href="http://dojoto.info/3-coding-dojo-uft.html" rel="alternate"></link><updated>2015-12-19T20:00:00-03:00</updated><author><name>Vinícius Aires Barros</name></author><id>tag:dojoto.info,2015-12-19:3-coding-dojo-uft.html</id><summary type="html">&lt;p align="center"&gt;
   &lt;img src="https://raw.githubusercontent.com/dojoto/dojoto.github.io/pelican/content/images/viniciusaires7/3-dojo-banner.jpg"/&gt;
 &lt;/p&gt;
 
 &lt;p&gt;O 3° Coding Dojo aconteceu no dia 18/12/2015 na &lt;a target="_blank" href="http://www.uft.edu.br"&gt;Universidade Federal do Tocantins&lt;/a&gt; (UFT) campus Palmas, com tema na linguagem de programação &lt;a target="_blank" href="https://pt.wikipedia.org/wiki/C%2B%2B"&gt;C++&lt;/a&gt;.
 O evento foi organizado pela parceria entre o &lt;a target="_blank" href="http://dojoto.info"&gt;DojoTO&lt;/a&gt;, &lt;a target="_blank" href="https://www.facebook.com/caccompuft"&gt;CACCOMP&lt;/a&gt; (Centro Acadêmico de Ciência da Computação).&lt;/p&gt;
-&lt;p align="center"&gt;
-  &lt;img src="https://raw.githubusercontent.com/dojoto/dojoto.github.io/pelican/content/images/viniciusaires7/27-03-organizacao-coding-dojo.jpg"/&gt;
-&lt;/p&gt;
-
 &lt;h2&gt;Problema abordado&lt;/h2&gt;
-&lt;p&gt;O problema proposto foi o &lt;a href="https://uva.onlinejudge.org/index.php?option=com_onlinejudge&amp;amp;Itemid=8&amp;amp;page=show_problem&amp;amp;problem=36"&gt;3n+1&lt;/a&gt; problema que foi retirado do livro &lt;a href="http://www.programming-challenges.com/"&gt;Programming Challenges&lt;/a&gt; do autor &lt;a href="http://www3.cs.stonybrook.edu/~skiena/"&gt;Skiena&lt;/a&gt; livro esse que é base de estudos de algoritmos e referência usada para competições de programação como por exemplo a &lt;a href="http://maratona.ime.usp.br/"&gt;Maratona de Programação&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;O problema proposto foi o &lt;a href="https://uva.onlinejudge.org/index.php?option=com_onlinejudge&amp;amp;Itemid=8&amp;amp;page=show_problem&amp;amp;problem=36"&gt;3n+1&lt;/a&gt; problema que foi retirado do livro &lt;a href="http://www.programming-challenges.com/"&gt;Programming Challenges&lt;/a&gt; do autor &lt;a href="http://www3.cs.stonybrook.edu/~skiena/"&gt;Skiena&lt;/a&gt;, livro esse que é base de estudos de algoritmos e referência usada para competições de programação como por exemplo a &lt;a href="http://maratona.ime.usp.br/"&gt;Maratona de Programação&lt;/a&gt; e a &lt;a href="http://olimpiada.ic.unicamp.br/"&gt;Olimpíada Brasileira de Informática - OBI&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Descrição do problema 3n+1&lt;/p&gt;
 &lt;p&gt;*Arquivo pdf com definição do problema&lt;/p&gt;
 &lt;iframe src="https://drive.google.com/file/d/0BwOxXBIiBMq4ZXpUdzFVNEhfYkU/preview" width="100%" height="480"&gt;&lt;/iframe&gt;
 
 &lt;h2&gt;Participantes&lt;/h2&gt;
+&lt;p&gt;Contamos com a participação de 9 pessoas como a maioria do pessoal já estava viajando por conta do final do semestre tivemos poucas pessoas presentes, mas ainda sim o Coding Dojo foi legal!&lt;/p&gt;
 &lt;p align="center"&gt;
   &lt;img src="https://raw.githubusercontent.com/dojoto/dojoto.github.io/pelican/content/images/viniciusaires7/coding-dojo-18-12-2015.jpg"/&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Para mais fotos acessem o &lt;a href="https://goo.gl/photos/RoLwwdiiWEd857Un6"&gt;link&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Contamos com a participação de 9 pessoas como a maioria do pessoal já estava viajando por conta do final do semestre tivemos poucas pessoas presentes, mas ainda sim o Coding Dojo foi legal!&lt;/p&gt;
+&lt;h3&gt;Nomes dos participantes&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.facebook.com/paulocanedo"&gt;Paulo Canedo C Rodrigues&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.facebook.com/bruno.p.carvalho.754"&gt;Bruno Pereira de Carvalho&lt;/a&gt;&lt;/li&gt;
