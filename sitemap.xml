@@ -4,133 +4,133 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://dojoto.info/</loc>
-<lastmod>2015-12-20T16:56:40-00:00</lastmod>
+<loc>http://dojoto.xyz/index.html</loc>
+<lastmod>2017-02-23T18:41:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://dojoto.info/archives.html</loc>
-<lastmod>2015-12-20T16:56:40-00:00</lastmod>
+<loc>http://dojoto.xyz/archives.html</loc>
+<lastmod>2017-02-23T18:41:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://dojoto.info/tags.html</loc>
-<lastmod>2015-12-20T16:56:40-00:00</lastmod>
+<loc>http://dojoto.xyz/tags.html</loc>
+<lastmod>2017-02-23T18:41:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://dojoto.info/categories.html</loc>
-<lastmod>2015-12-20T16:56:40-00:00</lastmod>
+<loc>http://dojoto.xyz/categories.html</loc>
+<lastmod>2017-02-23T18:41:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://dojoto.info/pages/about.html</loc>
-<lastmod>2015-12-20T16:56:40-00:00</lastmod>
+<loc>http://dojoto.xyz/pages/about.html</loc>
+<lastmod>2017-02-23T18:41:24-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.3</priority>
 </url>
 
 <url>
-<loc>http://dojoto.info/3-coding-dojo-uft.html</loc>
+<loc>http://dojoto.xyz/3-coding-dojo-uft.html</loc>
 <lastmod>2015-12-19T20:00:00-03:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
 </url>
 
 <url>
-<loc>http://dojoto.info/2-coding-dojo-uft.html</loc>
+<loc>http://dojoto.xyz/2-coding-dojo-uft.html</loc>
 <lastmod>2015-04-30T19:00:00-03:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
 </url>
 
 <url>
-<loc>http://dojoto.info/1-coding-dojo-piloto-uft.html</loc>
+<loc>http://dojoto.xyz/1-coding-dojo-piloto-uft.html</loc>
 <lastmod>2015-03-30T08:00:00-03:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
 </url>
 
 <url>
-<loc>http://dojoto.info/mas-afinal-de-contas-o-que-e-o-coding-dojo.html</loc>
+<loc>http://dojoto.xyz/mas-afinal-de-contas-o-que-e-o-coding-dojo.html</loc>
 <lastmod>2015-03-22T18:00:00-03:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
 </url>
 
 <url>
-<loc>http://dojoto.info/category/geral.html</loc>
+<loc>http://dojoto.xyz/category/geral.html</loc>
 <lastmod>2015-12-19T20:00:00-03:13</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://dojoto.info/tag/ciencia-da-computacao.html</loc>
+<loc>http://dojoto.xyz/tag/ciencia-da-computacao.html</loc>
 <lastmod>2015-12-19T20:00:00-03:13</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://dojoto.info/tag/coding-dojo.html</loc>
+<loc>http://dojoto.xyz/tag/coding-dojo.html</loc>
 <lastmod>2015-12-19T20:00:00-03:13</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://dojoto.info/tag/caccomp.html</loc>
+<loc>http://dojoto.xyz/tag/caccomp.html</loc>
 <lastmod>2015-12-19T20:00:00-03:13</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://dojoto.info/tag/tdd.html</loc>
+<loc>http://dojoto.xyz/tag/tdd.html</loc>
 <lastmod>2015-12-19T20:00:00-03:13</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://dojoto.info/tag/baby-steps.html</loc>
+<loc>http://dojoto.xyz/tag/baby-steps.html</loc>
 <lastmod>2015-12-19T20:00:00-03:13</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://dojoto.info/tag/pair-programming.html</loc>
+<loc>http://dojoto.xyz/tag/pair-programming.html</loc>
 <lastmod>2015-12-19T20:00:00-03:13</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://dojoto.info/tag/uft.html</loc>
+<loc>http://dojoto.xyz/tag/uft.html</loc>
 <lastmod>2015-12-19T20:00:00-03:13</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://dojoto.info/tag/extreme-programming.html</loc>
+<loc>http://dojoto.xyz/tag/extreme-programming.html</loc>
 <lastmod>2015-12-19T20:00:00-03:13</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://dojoto.info/author/vinicius-aires-barros.html</loc>
+<loc>http://dojoto.xyz/author/vinicius-aires-barros.html</loc>
 <lastmod>2015-12-19T20:00:00-03:13</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>

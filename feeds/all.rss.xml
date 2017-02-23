@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CodingDojoTocantins</title><link>http://dojoto.info/</link><description></description><atom:link href="http://dojoto.info/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 19 Dec 2015 20:00:00 -0300</lastBuildDate><item><title>3° Coding Dojo, como foi o evento?</title><link>http://dojoto.info/3-coding-dojo-uft.html</link><description>&lt;p align="center"&gt;
+<rss version="2.0"><channel><title>CodingDojoTocantins</title><link>http://dojoto.xyz/</link><description></description><lastBuildDate>Sat, 19 Dec 2015 20:00:00 -0300</lastBuildDate><item><title>3° Coding Dojo, como foi o evento?</title><link>http://dojoto.xyz/3-coding-dojo-uft.html</link><description>&lt;p align="center"&gt;
   &lt;img src="https://raw.githubusercontent.com/dojoto/dojoto.github.io/pelican/content/images/viniciusaires7/3-dojo-banner.jpg"/&gt;
 &lt;/p&gt;
 
@@ -42,11 +42,11 @@ O evento foi organizado pela parceria entre o &lt;a target="_blank" href="http:/
 &lt;p&gt;Obs: Para instalar o ambiente de testes com o framework do Google para testes em c++ segue o &lt;a href="http://www.eriksmistad.no/getting-started-with-google-test-on-ubuntu/"&gt;link&lt;/a&gt; com o tutorial de instalação!&lt;/p&gt;
 &lt;h2&gt;Código Fonte&lt;/h2&gt;
 &lt;p&gt;Segue abaixo a implementação feita durante o Coding Dojo:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="cm"&gt;/*File: main.cpp*/&lt;/span&gt;
-&lt;span class="cp"&gt;#include &amp;lt;gtest/gtest.h&amp;gt;&lt;/span&gt;
-&lt;span class="cp"&gt;#include &amp;lt;iostream&amp;gt;&lt;/span&gt;
-&lt;span class="cp"&gt;#include &amp;lt;cmath&amp;gt;&lt;/span&gt;
-&lt;span class="cp"&gt;#include &amp;lt;sstream&amp;gt;&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="cm"&gt;/*File: main.cpp*/&lt;/span&gt;
+&lt;span class="cp"&gt;#include&lt;/span&gt; &lt;span class="cpf"&gt;&amp;lt;gtest/gtest.h&amp;gt;&lt;/span&gt;&lt;span class="cp"&gt;&lt;/span&gt;
+&lt;span class="cp"&gt;#include&lt;/span&gt; &lt;span class="cpf"&gt;&amp;lt;iostream&amp;gt;&lt;/span&gt;&lt;span class="cp"&gt;&lt;/span&gt;
+&lt;span class="cp"&gt;#include&lt;/span&gt; &lt;span class="cpf"&gt;&amp;lt;cmath&amp;gt;&lt;/span&gt;&lt;span class="cp"&gt;&lt;/span&gt;
+&lt;span class="cp"&gt;#include&lt;/span&gt; &lt;span class="cpf"&gt;&amp;lt;sstream&amp;gt;&lt;/span&gt;&lt;span class="cp"&gt;&lt;/span&gt;
 
 &lt;span class="c1"&gt;//Classe Base ResolveProblema&lt;/span&gt;
 &lt;span class="k"&gt;class&lt;/span&gt; &lt;span class="nc"&gt;ResolveProblema&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
@@ -146,7 +146,7 @@ O evento foi organizado pela parceria entre o &lt;a target="_blank" href="http:/
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vinícius Aires Barros</dc:creator><pubDate>Sat, 19 Dec 2015 20:00:00 -0300</pubDate><guid>tag:dojoto.info,2015-12-19:3-coding-dojo-uft.html</guid><category>coding dojo</category><category>extreme programming</category><category>tdd</category><category>pair programming</category><category>baby steps</category><category>uft</category><category>caccomp</category><category>ciência da computacao</category></item><item><title>2° Coding Dojo, como foi o evento?</title><link>http://dojoto.info/2-coding-dojo-uft.html</link><description>&lt;p&gt;O 2° Coding Dojo aconteceu no dia 30/04/2015 na &lt;a target="_blank" href="http://www.uft.edu.br"&gt;Universidade Federal do Tocantins&lt;/a&gt; (UFT) campus Palmas, com tema na linguagem de programação &lt;a target="_blank" href="http://pt.wikipedia.org/wiki/Python"&gt;Python&lt;/a&gt;.
+&lt;/table&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vinícius Aires Barros</dc:creator><pubDate>Sat, 19 Dec 2015 20:00:00 -0300</pubDate><guid isPermaLink="false">tag:dojoto.xyz,2015-12-19:3-coding-dojo-uft.html</guid><category>coding dojo</category><category>extreme programming</category><category>tdd</category><category>pair programming</category><category>baby steps</category><category>uft</category><category>caccomp</category><category>ciência da computacao</category></item><item><title>2° Coding Dojo, como foi o evento?</title><link>http://dojoto.xyz/2-coding-dojo-uft.html</link><description>&lt;p&gt;O 2° Coding Dojo aconteceu no dia 30/04/2015 na &lt;a target="_blank" href="http://www.uft.edu.br"&gt;Universidade Federal do Tocantins&lt;/a&gt; (UFT) campus Palmas, com tema na linguagem de programação &lt;a target="_blank" href="http://pt.wikipedia.org/wiki/Python"&gt;Python&lt;/a&gt;.
 O evento foi organizado pela parceria entre o &lt;a target="_blank" href="http://dojoto.info"&gt;DojoTO&lt;/a&gt;, &lt;a target="_blank" href="https://www.facebook.com/caccompuft"&gt;CACCOMP&lt;/a&gt; (Centro Acadêmico de Ciência da Computação).&lt;/p&gt;
 &lt;p align="center"&gt;
   &lt;img src="http://dojoto.info/images/viniciusaires7/27-03-organizacao-coding-dojo.jpg"/&gt;
@@ -178,7 +178,7 @@ Desenvolva um programa que determine se um número é feliz ou triste.&lt;/p&gt;
 &lt;h2&gt;Código Fonte&lt;/h2&gt;
 &lt;p&gt;O algoritmo foi codificado com auxílo da IDE &lt;a href="https://www.jetbrains.com/pycharm/"&gt;Pycharm&lt;/a&gt; pelo fato de sua simplicidade e facilidade de visualização com o seu modo de apresentação.&lt;/p&gt;
 &lt;h3&gt;Classe happy_numbers.py&lt;/h3&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;happy&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;happy&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
     &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;n&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;=&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
         &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="bp"&gt;False&lt;/span&gt;
 
@@ -188,22 +188,22 @@ Desenvolva um programa que determine se um número é feliz ou triste.&lt;/p&gt;
         &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="bp"&gt;True&lt;/span&gt;
     &lt;span class="n"&gt;lista&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;[]&lt;/span&gt;
     &lt;span class="k"&gt;while&lt;/span&gt; &lt;span class="n"&gt;resultado&lt;/span&gt; &lt;span class="o"&gt;!=&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
-        &lt;span class="n"&gt;lista&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;append&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;resultado&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;  &lt;span class="c"&gt;# guarda todos os resultados já encontrados&lt;/span&gt;
+        &lt;span class="n"&gt;lista&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;append&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;resultado&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;  &lt;span class="c1"&gt;# guarda todos os resultados já encontrados&lt;/span&gt;
         &lt;span class="n"&gt;resultado&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;str&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;resultado&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
         &lt;span class="n"&gt;soma&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;
         &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;letra&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;resultado&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
-            &lt;span class="n"&gt;soma&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;soma&lt;/span&gt; &lt;span class="o"&gt;+&lt;/span&gt; &lt;span class="nb"&gt;int&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;letra&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="o"&gt;**&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt;  &lt;span class="c"&gt;# onde a elevação ao quadrado&lt;/span&gt;
+            &lt;span class="n"&gt;soma&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;soma&lt;/span&gt; &lt;span class="o"&gt;+&lt;/span&gt; &lt;span class="nb"&gt;int&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;letra&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="o"&gt;**&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt;  &lt;span class="c1"&gt;# onde a elevação ao quadrado&lt;/span&gt;
 
         &lt;span class="n"&gt;resultado&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;soma&lt;/span&gt;
 
         &lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;resultado&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
 
-        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;resultado&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;lista&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;  &lt;span class="c"&gt;# isso já estará na lista&lt;/span&gt;
-            &lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;str&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="o"&gt;+&lt;/span&gt; &lt;span class="s"&gt;&amp;quot; não é feliz!&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;resultado&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;lista&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;  &lt;span class="c1"&gt;# isso já estará na lista&lt;/span&gt;
+            &lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;str&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="o"&gt;+&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot; não é feliz!&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
             &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="bp"&gt;False&lt;/span&gt;
 
     &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;resultado&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
-        &lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;str&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="o"&gt;+&lt;/span&gt; &lt;span class="s"&gt;&amp;quot; é feliz!&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;str&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="o"&gt;+&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot; é feliz!&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
 
     &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="bp"&gt;True&lt;/span&gt;
 
@@ -222,7 +222,7 @@ Desenvolva um programa que determine se um número é feliz ou triste.&lt;/p&gt;
 
 
 &lt;h3&gt;Classe happy_number.py refatorado&lt;/h3&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;soma_dos_quadrados&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;numero&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;soma_dos_quadrados&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;numero&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
     &lt;span class="n"&gt;minhastring&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;str&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;numero&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
     &lt;span class="nb"&gt;list&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;[]&lt;/span&gt;
     &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;digito&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;minhastring&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
@@ -256,7 +256,7 @@ Desenvolva um programa que determine se um número é feliz ou triste.&lt;/p&gt;
 &lt;p&gt;Ao final do Dojo tivemos um momento de feedback, onde foram apontados os pontos positivos e negativos ocorridos durante o evento.&lt;/p&gt;
 &lt;p align="center"&gt;
   &lt;img src="http://dojoto.info/images/viniciusaires7/30-04-coding-dojo-feedback.jpg"/&gt;
-&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vinícius Aires Barros</dc:creator><pubDate>Thu, 30 Apr 2015 19:00:00 -0300</pubDate><guid>tag:dojoto.info,2015-04-30:2-coding-dojo-uft.html</guid><category>coding dojo</category><category>extreme programming</category><category>tdd</category><category>pair programming</category><category>baby steps</category><category>uft</category><category>caccomp</category><category>ciência da computacao</category></item><item><title>1° Piloto Coding Dojo, como foi o evento?</title><link>http://dojoto.info/1-coding-dojo-piloto-uft.html</link><description>&lt;p&gt;O 1° Piloto Coding Dojo aconteceu no dia 27/03/2015 na &lt;a target="_blank" href="http://www.uft.edu.br"&gt;Universidade Federal do Tocantins&lt;/a&gt; (UFT) campus Palmas, com tema na linguagem de programação &lt;a target="_blank" href="http://pt.wikipedia.org/wiki/Java_%28linguagem_de_programa%C3%A7%C3%A3o%29"&gt;Java&lt;/a&gt; e com o auxílio do
+&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vinícius Aires Barros</dc:creator><pubDate>Thu, 30 Apr 2015 19:00:00 -0300</pubDate><guid isPermaLink="false">tag:dojoto.xyz,2015-04-30:2-coding-dojo-uft.html</guid><category>coding dojo</category><category>extreme programming</category><category>tdd</category><category>pair programming</category><category>baby steps</category><category>uft</category><category>caccomp</category><category>ciência da computacao</category></item><item><title>1° Piloto Coding Dojo, como foi o evento?</title><link>http://dojoto.xyz/1-coding-dojo-piloto-uft.html</link><description>&lt;p&gt;O 1° Piloto Coding Dojo aconteceu no dia 27/03/2015 na &lt;a target="_blank" href="http://www.uft.edu.br"&gt;Universidade Federal do Tocantins&lt;/a&gt; (UFT) campus Palmas, com tema na linguagem de programação &lt;a target="_blank" href="http://pt.wikipedia.org/wiki/Java_%28linguagem_de_programa%C3%A7%C3%A3o%29"&gt;Java&lt;/a&gt; e com o auxílio do
 &lt;a target="_blank" href="http://junit.org/"&gt;JUnit&lt;/a&gt; como ferramenta de teste unitário.
 O evento foi organizado pela parceria entre o &lt;a target="_blank" href="http://dojoto.info"&gt;DojoTO&lt;/a&gt;, &lt;a target="_blank" href="https://www.facebook.com/caccompuft"&gt;CACCOMP&lt;/a&gt; (Centro Acadêmico de Ciência da Computação).&lt;/p&gt;
 &lt;p align="center"&gt;
@@ -290,7 +290,7 @@ Abaixo segue a sequência do Randori!&lt;/p&gt;
 &lt;h2&gt;Código Fonte&lt;/h2&gt;
 &lt;p&gt;O algoritmo foi codificado com auxílo da IDE Netbeans pelo fato de sua simplicidade e facilidade na criação de testes unitários com o JUnit.&lt;/p&gt;
 &lt;h3&gt;Classe FizzBuzz.java&lt;/h3&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="cm"&gt;/*FizzBuzz.java*/&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="cm"&gt;/*FizzBuzz.java*/&lt;/span&gt;
 &lt;span class="kd"&gt;public&lt;/span&gt; &lt;span class="kd"&gt;class&lt;/span&gt; &lt;span class="nc"&gt;FizzBuzz&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
     &lt;span class="kd"&gt;public&lt;/span&gt; &lt;span class="kd"&gt;static&lt;/span&gt; &lt;span class="n"&gt;String&lt;/span&gt; &lt;span class="nf"&gt;Verifica&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="kt"&gt;int&lt;/span&gt; &lt;span class="n"&gt;num&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
         &lt;span class="kt"&gt;int&lt;/span&gt; &lt;span class="n"&gt;result3&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;num&lt;/span&gt; &lt;span class="o"&gt;%&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
@@ -310,12 +310,12 @@ Abaixo segue a sequência do Randori!&lt;/p&gt;
 
 
 &lt;h3&gt;Classe de Teste FizzBuzzTest.java&lt;/h3&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="cm"&gt;/*FizzBuzzTest.java*/&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="cm"&gt;/*FizzBuzzTest.java*/&lt;/span&gt;
 
 &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;org.junit.After&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
 &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;org.junit.Before&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
 &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;org.junit.Test&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
-&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;static&lt;/span&gt; &lt;span class="n"&gt;org&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;junit&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;Assert&lt;/span&gt;&lt;span class="o"&gt;.*;&lt;/span&gt;
+&lt;span class="kn"&gt;import static&lt;/span&gt; &lt;span class="nn"&gt;org.junit.Assert.*&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
 
 &lt;span class="kd"&gt;public&lt;/span&gt; &lt;span class="kd"&gt;class&lt;/span&gt; &lt;span class="nc"&gt;FizzBuzzTest&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
     &lt;span class="kd"&gt;public&lt;/span&gt; &lt;span class="nf"&gt;FizzBuzzTest&lt;/span&gt;&lt;span class="o"&gt;()&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
@@ -376,7 +376,7 @@ Abaixo segue a sequência do Randori!&lt;/p&gt;
 &lt;p&gt;Ao final do Dojo tivemos um momento de feedback, onde foram apontados os pontos positivos e negativos ocorridos durante o evento.&lt;/p&gt;
 &lt;p align="center"&gt;
   &lt;img src="http://dojoto.info/images/viniciusaires7/25-03-coding-dojo-feedback.jpg"/&gt;
-&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vinícius Aires Barros</dc:creator><pubDate>Mon, 30 Mar 2015 08:00:00 -0300</pubDate><guid>tag:dojoto.info,2015-03-30:1-coding-dojo-piloto-uft.html</guid><category>coding dojo</category><category>extreme programming</category><category>tdd</category><category>pair programming</category><category>baby steps</category><category>uft</category><category>caccomp</category><category>ciência da computacao</category></item><item><title>Mas afinal de contas o que é o Coding Dojo?</title><link>http://dojoto.info/mas-afinal-de-contas-o-que-e-o-coding-dojo.html</link><description>&lt;p&gt;A palavra DOJO, em uma tradução literal do japonês, significa "lugar do caminho" e é originalmente usada para designar um espaço de meditação dos monges budistas. Em uma tradução livre dojo significa "lugar onde se estuda a vida", mas hoje em dia o termo é mais conhecido como lugar onde se pratica artes marciais em uma sala dentro de uma academia com o chão coberto de tapetes.&lt;/p&gt;
+&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vinícius Aires Barros</dc:creator><pubDate>Mon, 30 Mar 2015 08:00:00 -0300</pubDate><guid isPermaLink="false">tag:dojoto.xyz,2015-03-30:1-coding-dojo-piloto-uft.html</guid><category>coding dojo</category><category>extreme programming</category><category>tdd</category><category>pair programming</category><category>baby steps</category><category>uft</category><category>caccomp</category><category>ciência da computacao</category></item><item><title>Mas afinal de contas o que é o Coding Dojo?</title><link>http://dojoto.xyz/mas-afinal-de-contas-o-que-e-o-coding-dojo.html</link><description>&lt;p&gt;A palavra DOJO, em uma tradução literal do japonês, significa "lugar do caminho" e é originalmente usada para designar um espaço de meditação dos monges budistas. Em uma tradução livre dojo significa "lugar onde se estuda a vida", mas hoje em dia o termo é mais conhecido como lugar onde se pratica artes marciais em uma sala dentro de uma academia com o chão coberto de tapetes.&lt;/p&gt;
 &lt;h2&gt;DOJO que parada é essa!?&lt;/h2&gt;
 &lt;p align="center"&gt;
   &lt;img src="http://dojoto.info/images/viniciusaires7/dude-wtf.jpg" alt="WTF image"/&gt;
@@ -469,4 +469,4 @@ Abaixo segue a sequência do Randori!&lt;/p&gt;
 &lt;p&gt;LUZ, Ramiro Batista; NETO, Adolfo. Usando Dojos de Programação para o Ensino de Desenvolvimento Dirigido por Testes. Número da Edição. Local : Editora, ano.&lt;/p&gt;
 &lt;p&gt;ANDRADE, Bruno Eustáquio et al. TDD - Test Driven Development (Desenvolvimento guiado por testes). Artigo Acadêmico.Número da Edição. Local : Editora, ano.&lt;/p&gt;
 &lt;p&gt;BONFIM, Márcio. O que é o Coding Dojo. Devmedia. Disponível em: &lt;a href="http://www.devmedia.com.br/o-que-e-o-coding-dojo/30517"&gt;http://www.devmedia.com.br/o-que-e-o-coding-dojo/30517&lt;/a&gt;. Acesso em: 20, mar. 2015.&lt;/p&gt;
-&lt;p&gt;ANICHE, Maurício. Test-driven-development. Caelum. Disponível em: &lt;a href="http://tdd.caelum.com.br/"&gt;http://tdd.caelum.com.br/&lt;/a&gt;. Acesso em: 20, mar. 2015.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vinícius Aires Barros</dc:creator><pubDate>Sun, 22 Mar 2015 18:00:00 -0300</pubDate><guid>tag:dojoto.info,2015-03-22:mas-afinal-de-contas-o-que-e-o-coding-dojo.html</guid><category>coding dojo</category><category>extreme programming</category><category>tdd</category><category>pair programming</category><category>baby steps</category></item></channel></rss>
+&lt;p&gt;ANICHE, Maurício. Test-driven-development. Caelum. Disponível em: &lt;a href="http://tdd.caelum.com.br/"&gt;http://tdd.caelum.com.br/&lt;/a&gt;. Acesso em: 20, mar. 2015.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vinícius Aires Barros</dc:creator><pubDate>Sun, 22 Mar 2015 18:00:00 -0300</pubDate><guid isPermaLink="false">tag:dojoto.xyz,2015-03-22:mas-afinal-de-contas-o-que-e-o-coding-dojo.html</guid><category>coding dojo</category><category>extreme programming</category><category>tdd</category><category>pair programming</category><category>baby steps</category></item></channel></rss>
