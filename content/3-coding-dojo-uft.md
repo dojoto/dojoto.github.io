@@ -5,8 +5,8 @@ Category: Geral
 Slug: 3-coding-dojo-uft
 Author: Vinícius Aires Barros
 Email:  viniciusaires7@gmail.com
-Github: viniciusaires7
-Twitter: vinicius_a1r3s
+Github: viniciusaires
+Twitter: dev_vini
 Facebook: viniciusa1r3s
 Linkedin: viniciusaires7
 
@@ -15,7 +15,7 @@ Linkedin: viniciusaires7
 </p>
 
 O 3° Coding Dojo aconteceu no dia 18/12/2015 na <a target="_blank" href="http://www.uft.edu.br">Universidade Federal do Tocantins</a> (UFT) campus Palmas, com tema na linguagem de programação <a target="_blank" href="https://pt.wikipedia.org/wiki/C%2B%2B">C++</a>.
-O evento foi organizado pela parceria entre o <a target="_blank" href="http://dojoto.info">DojoTO</a>, <a target="_blank" href="https://www.facebook.com/caccompuft">CACCOMP</a> (Centro Acadêmico de Ciência da Computação).
+O evento foi organizado pela parceria entre o <a target="_blank" href="http://dojoto.github.io">DojoTO</a>, <a target="_blank" href="https://www.facebook.com/caccompuft">CACCOMP</a> (Centro Acadêmico de Ciência da Computação).
 
 ##Problema abordado
 

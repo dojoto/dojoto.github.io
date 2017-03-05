@@ -5,17 +5,17 @@ Category: Geral
 Slug: 1-coding-dojo-piloto-uft
 Author: Vinícius Aires Barros
 Email:  viniciusaires7@gmail.com
-Github: viniciusaires7
-Twitter: vinicius_a1r3s
+Github: viniciusaires
+Twitter: dev_vini
 Facebook: viniciusa1r3s
 Linkedin: viniciusaires7
 
 O 1° Piloto Coding Dojo aconteceu no dia 27/03/2015 na <a target="_blank" href="http://www.uft.edu.br">Universidade Federal do Tocantins</a> (UFT) campus Palmas, com tema na linguagem de programação <a target="_blank" href="http://pt.wikipedia.org/wiki/Java_%28linguagem_de_programa%C3%A7%C3%A3o%29">Java</a> e com o auxílio do
 <a target="_blank" href="http://junit.org/">JUnit</a> como ferramenta de teste unitário.
-O evento foi organizado pela parceria entre o <a target="_blank" href="http://dojoto.info">DojoTO</a>, <a target="_blank" href="https://www.facebook.com/caccompuft">CACCOMP</a> (Centro Acadêmico de Ciência da Computação).
+O evento foi organizado pela parceria entre o <a target="_blank" href="http://dojoto.github.io">DojoTO</a>, <a target="_blank" href="https://www.facebook.com/caccompuft">CACCOMP</a> (Centro Acadêmico de Ciência da Computação).
 
 <p align="center">
-  <img src="http://dojoto.info/images/viniciusaires7/27-03-organizacao-coding-dojo.jpg"/>
+  <img src="http://dojoto.github.io/images/viniciusaires7/27-03-organizacao-coding-dojo.jpg"/>
 </p>
 
 ##Problema abordado
@@ -27,7 +27,7 @@ O problema proposto foi o clássico [FizzBuzz](http://c2.com/cgi/wiki?FizzBuzzTe
 ##Participantes
 
 <p align="center">
-  <img src="http://dojoto.info/images/viniciusaires7/foto-1-piloto-coding-dojo.jpg"/>
+  <img src="http://dojoto.github.io/images/viniciusaires7/foto-1-piloto-coding-dojo.jpg"/>
 </p>
 
 Tivemos participação em peso dos alunos de Ciência da Computação UFT, um acadêmico de Eng. Elétrica, a participação de um ex-aluno e dois de outras instituições.
@@ -141,5 +141,5 @@ FeedBack
 Ao final do Dojo tivemos um momento de feedback, onde foram apontados os pontos positivos e negativos ocorridos durante o evento.
 
 <p align="center">
-  <img src="http://dojoto.info/images/viniciusaires7/25-03-coding-dojo-feedback.jpg"/>
+  <img src="http://dojoto.github.io/images/viniciusaires7/25-03-coding-dojo-feedback.jpg"/>
 </p>

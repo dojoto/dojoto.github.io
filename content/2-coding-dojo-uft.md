@@ -5,16 +5,16 @@ Category: Geral
 Slug: 2-coding-dojo-uft
 Author: Vinícius Aires Barros
 Email:  viniciusaires7@gmail.com
-Github: viniciusaires7
-Twitter: vinicius_a1r3s
+Github: viniciusaires
+Twitter: dev_vini
 Facebook: viniciusa1r3s
 Linkedin: viniciusaires7
 
 O 2° Coding Dojo aconteceu no dia 30/04/2015 na <a target="_blank" href="http://www.uft.edu.br">Universidade Federal do Tocantins</a> (UFT) campus Palmas, com tema na linguagem de programação <a target="_blank" href="http://pt.wikipedia.org/wiki/Python">Python</a>.
-O evento foi organizado pela parceria entre o <a target="_blank" href="http://dojoto.info">DojoTO</a>, <a target="_blank" href="https://www.facebook.com/caccompuft">CACCOMP</a> (Centro Acadêmico de Ciência da Computação).
+O evento foi organizado pela parceria entre o <a target="_blank" href="http://dojoto.github.io">DojoTO</a>, <a target="_blank" href="https://www.facebook.com/caccompuft">CACCOMP</a> (Centro Acadêmico de Ciência da Computação).
 
 <p align="center">
-  <img src="http://dojoto.info/images/viniciusaires7/27-03-organizacao-coding-dojo.jpg"/>
+  <img src="http://dojoto.github.io/images/viniciusaires7/27-03-organizacao-coding-dojo.jpg"/>
 </p>
 
 ##Problema abordado
@@ -43,7 +43,7 @@ Retirado do site Dojo Puzzles:
 ##Participantes
 
 <p align="center">
-  <img src="http://dojoto.info/images/viniciusaires7/coding-dojo-30-04-2015.jpg"/>
+  <img src="http://dojoto.github.io/images/viniciusaires7/coding-dojo-30-04-2015.jpg"/>
 </p>
 
 Para mais fotos clique [aqui](https://goo.gl/6PNhiA)
@@ -136,5 +136,5 @@ FeedBack
 Ao final do Dojo tivemos um momento de feedback, onde foram apontados os pontos positivos e negativos ocorridos durante o evento.
 
 <p align="center">
-  <img src="http://dojoto.info/images/viniciusaires7/30-04-coding-dojo-feedback.jpg"/>
+  <img src="http://dojoto.github.io/images/viniciusaires7/30-04-coding-dojo-feedback.jpg"/>
 </p>

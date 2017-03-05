@@ -5,8 +5,8 @@ Category: Geral
 Slug: mas-afinal-de-contas-o-que-e-o-coding-dojo
 Author: Vinícius Aires Barros
 Email:  viniciusaires7@gmail.com
-Github: viniciusaires7
-Twitter: vinicius_a1r3s
+Github: viniciusaires
+Twitter: dev_vini
 Facebook: viniciusa1r3s
 Linkedin: viniciusaires7
 
@@ -16,14 +16,14 @@ DOJO que parada é essa!?
 -----------
 
 <p align="center">
-  <img src="http://dojoto.info/images/viniciusaires7/dude-wtf.jpg" alt="WTF image"/>
+  <img src="http://dojoto.github.io/images/viniciusaires7/dude-wtf.jpg" alt="WTF image"/>
 </p>
 
 O *Coding Dojo* ou Dojo de Programação é uma atividade que vem sendo muito utilizada pela comunidade de desenvolvedores e pessoas interessadas com o objetivo de melhorarem suas habilidades de escrita de algoritmos eficientes e de qualidade. A fundamentação do dojo está na prática de métodos ágeis de desenvolvimento oriundas do *Extreme Programming* (XP) como o TDD (Test Driven Development, "Programação Orienta a Testes"), *Pair Programming* (Programação em Pares) e o *Baby Steps* praticados em um ambiente inclusivo, seguro e convidativo.
 
 ###Justificativa
 <p align="center">
-  <img src="http://dojoto.info/images/viniciusaires7/7396371564_828beac495_z.jpg" alt="Programadores nao treinam image"/>
+  <img src="http://dojoto.github.io/images/viniciusaires7/7396371564_828beac495_z.jpg" alt="Programadores nao treinam image"/>
 </p>
 
 Alguns programadores não têm o costume de praticar suas "*skills*" de programação e com isso aprimorarem a sua capacidade de resolver problemas.
@@ -38,18 +38,18 @@ O dojo não é um local para exibicionismo ou competição. O principal objetivo
 
 * **TDD**: O TDD é um acróstico em inglês de Test Driven Development, traduzindo Desenvolvimento Dirigido a Testes. TDD é uma técnica (englobada pelo XP) que contempla o desenvolvimento a partir de testes. Duas regras básicas devem ser seguidas, primeiro deve-se escrever um teste automatizado que falhe antes de escrever algum código e a outra regra diz que se deve remover código duplicado. Essas regras geram o simbolismo do TDD que possui três termos, Vermelho, Verde e Refatoração, chamado de mantra do TDD. O significado é o seguinte:  vermelho – escreva um pequeno teste que falhe, verde – faça o teste funcionar rapidamente cometendo qualquer pecado necessário nesse processo e refatoração – remova a duplicação criada para fazer o teste passar. As vantagens de usar esse método são feedback constante da situação do código, confiança para mudar pois as funcionalidades prontas possuem testes, caso uma alteração afete algo pronto, quando os testes estiverem passando não há necessidade de continuar desenvolvendo.
 <p align="center">
-  <img src="http://dojoto.info/images/viniciusaires7/tdd.jpg" alt="Test Driven Development image"/>
+  <img src="http://dojoto.github.io/images/viniciusaires7/tdd.jpg" alt="Test Driven Development image"/>
 </p>
 
 
 * **Pair Programming**: O Pair Programming (Programação em Pares) é uma técnica caraterizada por uma dupla sentada lado a lado compartilhando o mesmo computador e desenvolvendo a solução colaborativamente. Essa técnica permite que os programadores mantenham a atenção de um e do outro na tarefa, refinem as ideias do sistema, esclarecimento das ideias, quando alguém não consegue seguir em frente o outro toma iniciativa e ambos se mantem alinhados com as práticas do time.
 <p align="center">
-  <img src="http://dojoto.info/images/viniciusaires7/IMG_1809.jpg" alt="Pair programming image"/>
+  <img src="http://dojoto.github.io/images/viniciusaires7/IMG_1809.jpg" alt="Pair programming image"/>
 </p>
 
 * **Baby Steps**: É basicamente a mesma ideia de quando uma criança está aprendendo dar os seu primeiros passos, deve-se deixar que a pessoa se arrisque alguns passos sozinhos mas sempre supervisionando e dando dicas de como dar o próximo passo.
 <p align="center">
-  <img src="http://dojoto.info/images/viniciusaires7/959864706_894bdfaa56.jpg" alt="Baby Steps image"/>
+  <img src="http://dojoto.github.io/images/viniciusaires7/959864706_894bdfaa56.jpg" alt="Baby Steps image"/>
 </p>
 
 * **Kata**: Em artes marciais, Kata é como chamamos a sequência de movimentos em uma simulação de luta. Analogamente no Coding Dojo, o Kata é representado pela dupla de programadores que são denominados "piloto" e "copiloto".
@@ -58,12 +58,12 @@ O dojo não é um local para exibicionismo ou competição. O principal objetivo
 
 2. **Copiloto**: O copiloto é responsável por passar as instruções ao piloto.
 <p align="center">
-  <img src="http://dojoto.info/images/viniciusaires7/Comandante-Elisa-Rossi-e-Co-piloto-Gabriela-GOL-Linhas-Aereas.jpg" alt="Piloto Copiloto image"/>
+  <img src="http://dojoto.github.io/images/viniciusaires7/Comandante-Elisa-Rossi-e-Co-piloto-Gabriela-GOL-Linhas-Aereas.jpg" alt="Piloto Copiloto image"/>
 </p>
 
 * **Randori**: Então entramos com a ideia do *Randori* (das artes marciais é conhecido como o momento da troca e rodizio dos oponentes). A cada 5 ou 10 minutos o Copiloto torna-se Piloto, o Piloto volta para a plateia e um novo Copiloto é escolhido entre os que ainda não participaram do Kata!
 <p align="center">
-  <img src="http://dojoto.info/images/viniciusaires7/coding-dojo-aprendendo-a-programar-programando-38-638.jpg" alt="Randori image"/>
+  <img src="http://dojoto.github.io/images/viniciusaires7/coding-dojo-aprendendo-a-programar-programando-38-638.jpg" alt="Randori image"/>
 </p>
 
 Todas essas práticas oriundas do Extreme Programming, têm como objetivo melhorar o Workflow do desenvolvimento de projetos de software, além de serem práticas que ajudam a desenvolver a capacidade de trabalhar em equipe.
@@ -74,7 +74,7 @@ Para Organizar um Dojo basta ter pessoas interessadas, um computador pessoal, um
 
 ###Feedback
 <p align="center">
-  <img src="http://dojoto.info/images/viniciusaires7/feedback.jpg" alt="Feeback image"/>
+  <img src="http://dojoto.github.io/images/viniciusaires7/feedback.jpg" alt="Feeback image"/>
 </p>
 
 No final do Dojo temos o momento do Feedback, que é onde iremos anotar todos os pontos positivos e negativos em relação ao evento que ocorreu para que sejam analisados pela organização do Dojo!
@@ -99,7 +99,7 @@ Video explicativo sobre o Coding Dojo Muito além do código (Henrique Bastos)
 
 ###Agradecimento
 <p align="center">
-  <img src="http://dojoto.info/images/viniciusaires7/AGRADECIMENTOS.jpg" alt="Thanks image"/>
+  <img src="http://dojoto.github.io/images/viniciusaires7/AGRADECIMENTOS.jpg" alt="Thanks image"/>
 </p>
 
 Gostaria de agradecer publicamente a ajuda na execução desse projeto:
